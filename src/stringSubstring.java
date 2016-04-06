@@ -34,7 +34,7 @@ public class stringSubstring {
 	        				set.add(s2);
 	            			 }
 	        			
-	        			         }catch (StringIndexOutOfBoundsException se){
+	        			         }catch (Exception se){
 		            				 
 		            			 }		
 	            			 System.out.println("setmin:"+set.first());
